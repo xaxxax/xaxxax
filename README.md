@@ -1,6 +1,6 @@
 ## hi 
 
-rust enthusiast
+larp rust enthusiast
 
 but make money in typescript
 
