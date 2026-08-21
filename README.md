@@ -1,7 +1,7 @@
 ## hi 
 
-I like low-level stuff.
+rust enthusiast
 
-Unfortunately, I work in TypeScript.
+but make money in typescript
 
-I'm also trash at programming.
+also suck at programing sadge
